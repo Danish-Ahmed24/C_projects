@@ -1,0 +1,12 @@
+dani 1234 customer
+rafay 12345 customer
+gaga 123 custoemr
+omar 1234 employee
+saad2 1233 customer
+shop 1223 customer
+cha 1222 customer
+chah 1112 customer
+buffer 1asdf customer
+hamm asdf customer
+hussain_bin_iman greencap customer
+1234 4321 employee
